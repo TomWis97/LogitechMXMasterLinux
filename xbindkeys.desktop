@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Xbindkeys
+Comment=Start the Xbindkeys program.
+Exec=xbindkeys
+Terminal=False
+Type=Application
+Hidden=True
