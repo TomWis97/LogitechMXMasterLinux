@@ -4,7 +4,7 @@ This is a small set of scripts to use the Logitech MX Master on Linux.
 ## Requirements
 For this set of scripts to work, make sure that:
  - `xbindkeys` and `xautomation` are installed.
- - These scripts are located in `~/bin/mxmaster`.
+ - These scripts are located in `~/bin/LogitechMXMasterLinux`.
  - You've copied the `.xbindkeysrc` to `~/.xbindkeys`.
  - You've added xbindkeys to the autostart of your Desktop Manager.
    - For Gnome, copy `xbindkeys.desktop` to `~/.config/autostart/xbindkeys.desktop`.

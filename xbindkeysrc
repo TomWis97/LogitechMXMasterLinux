@@ -1,19 +1,19 @@
 # Thumb scrollwheel up.
-"~/bin/mxmaster/btn_scroll_up.sh"
+"~/bin/LogitechMXMasterLinux/btn_scroll_up.sh"
    b:6                                   
                                         
 # Thumb scrollsheell down.
-"~/bin/mxmaster/btn_scroll_down.sh"
+"~/bin/LogitechMXMasterLinux/btn_scroll_down.sh"
    b:7                                   
                                         
 # Backward button
-"~/bin/mxmaster/btn_back.sh"                
+"~/bin/LogitechMXMasterLinux/btn_back.sh"                
    b:8                                   
                                         
 # Forward button
-"~/bin/mxmaster/btn_back.sh"                
+"~/bin/LogitechMXMasterLinux/btn_back.sh"                
    b:9
 
 # Thumb button.
-"sleep 0.1 && ~/bin/mxmaster/btn_thumb.sh"
+"sleep 0.1 && ~/bin/LogitechMXMasterLinux/btn_thumb.sh"
    Control+Alt+Mod2 + Tab
