@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 # Thumb button.
-touch /tmp/mxmaster_modeshift
+currenttime=`date +%s%N`
+echo $currenttime > /tmp/mxmaster_modeshift
 sleep 3
-rm /tmp/mxmaster_modeshift
+if grep -q $currenttime /tmp/mxmaster_modeshift
+then
+  rm /tmp/mxmaster_modeshift
+fi
