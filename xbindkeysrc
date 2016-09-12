@@ -11,7 +11,7 @@
    b:8                                   
                                         
 # Forward button
-"~/bin/LogitechMXMasterLinux/btn_back.sh"                
+"~/bin/LogitechMXMasterLinux/btn_forward.sh"                
    b:9
 
 # Thumb button.
