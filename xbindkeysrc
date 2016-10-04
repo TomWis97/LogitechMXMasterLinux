@@ -17,3 +17,7 @@
 # Thumb button.
 "sleep 0.1 && ~/bin/LogitechMXMasterLinux/btn_thumb.sh"
    Control+Alt+Mod2 + Tab
+
+# Thumb scrollwheel up + Tab
+"~/bin/LogitechMXMasterLinux/btn_scroll_up.sh"
+   Alt + b:6
