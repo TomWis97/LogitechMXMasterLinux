@@ -4,5 +4,5 @@ then
   # Command to be executed when the modeshift is active.
   xte 'key XF86AudioLowerVolume'
 else
-  xte 'mouseclick 6'
+  xte 'key Left'
 fi
