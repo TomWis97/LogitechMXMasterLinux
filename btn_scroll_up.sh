@@ -4,5 +4,6 @@ then
   # Command to be executed when the modeshift is active.
   xte 'key XF86AudioRaiseVolume'
 else
-  xte 'key Right'
+  #xte 'key Right'
+  xte 'keydown Control_L' 'key Tab' 'keyup Control_L'
 fi
